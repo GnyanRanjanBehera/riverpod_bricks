@@ -72,7 +72,7 @@ dart pub global activate mason_cli
 
 ### Install brick from github
 ```sh
- mason add -g riverpod_architecture --git-url https://github.com/Shreemanarjun/river_bricks --git-path bricks/riverpod_architecture
+ mason add -g riverpod_architecture --git-url https://github.com/GnyanRanjanBehera/riverpod_bricks --git-path bricks/riverpod_architecture
 
 ```
 ### Upgrade to newer version

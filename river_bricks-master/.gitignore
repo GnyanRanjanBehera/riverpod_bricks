@@ -1,0 +1,19 @@
+/.mason
+/mason-lock.json
+.DS_Store
+.atom/
+.idea/*
+.vscode/*
+
+# Files and directories created by pub
+.dart_tool/
+.packages
+pubspec.lock
+
+# Conventional directory for build outputs
+build/
+
+bricks/riverpod_simple_architecture/CHANGELOG.md
+bricks/riverpod_simple_architecture/__brick__/custom_lint.log
+bricks/riverpod_simple_architecture/__brick__/.flutter-plugins
+bricks/riverpod_simple_architecture/__brick__/.flutter-plugins-dependencies

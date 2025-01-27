@@ -93,13 +93,13 @@ mason upgrade --global
 ### Make using (with prompt)
 
 ```sh
-mason make riverpod_simple_architecture
+mason make riverpod_architecture
 
 ```
 ## OR (without prompt as an argument)
 
 ```sh
-mason make riverpod_simple_architecture --project_name "Your Project Name"
+mason make riverpod_architecture --project_name "Your Project Name"
 
 ```
 ## Outputs 📦
